@@ -5,7 +5,7 @@ Each app lives in its own folder.
 
 | App | What it does | Concepts / tech | Year |
 |---|---|---|---|
-| [Tip-Calculator](Tip-Calculator/) | Calculates tip and total for a bill | Swift basics, UIKit, Auto Layout | 2021 |
+| [Tip-Calculator](Tip-Calculator/) | Calculates tip and total for a bill | Swift basics, UIKit, Auto Layout | 2022 |
 | [Flix_App_2](Flix_App_2/) | Movie browser showing now-playing films and details | Networking, JSON parsing, table/collection views, TMDB API | 2022 |
 | [Parstagram](Parstagram/) | Instagram-style photo sharing app | Parse/Back4App backend, camera & photo picker, auth, feeds | 2022 |
 | [Twitter](Twitter/) | Twitter client showing a timeline and posting tweets | REST API calls, OAuth, table views | 2022 |
