@@ -9,7 +9,7 @@ Each app lives in its own folder.
 | [Flix_App_2](Flix_App_2/) | Movie browser showing now-playing films and details | Networking, JSON parsing, table/collection views, TMDB API | 2022 |
 | [Parstagram](Parstagram/) | Instagram-style photo sharing app | Parse/Back4App backend, camera & photo picker, auth, feeds | 2022 |
 | [Twitter](Twitter/) | Twitter client showing a timeline and posting tweets | REST API calls, OAuth, table views | 2022 |
-| [KnowYourFood_1.0](KnowYourFood_1.0/) | (add one line: what it does) | (add tech) | 2022 |
+| [KnowYourFood_1.0](KnowYourFood_1.0/) | KnowYourFood is a recipe app in which the user see recipes from different sites. | Swift | 2022 |
 
 ## Notes
 - These are course projects built while following CodePath's curriculum, with my own changes and features added along the way.
